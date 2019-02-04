@@ -1,0 +1,22 @@
+/* img{
+	width: 100%;
+	/* float:left; */
+	/* margin: 1%;
+} */ 
+
+.H3{
+    text-align: center;
+
+}
+
+.H1{
+    font-size: 4rem;
+    font-weight: bold;
+}
+
+#button{
+    
+  align-items: center;
+  justify-content: center;
+    display: grid;
+}
