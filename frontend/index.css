@@ -1,8 +1,14 @@
-/* img{
-	width: 100%;
-	/* float:left; */
-	/* margin: 1%;
-} */ 
+.row{
+	width:900px; 
+	margin:0 auto;
+}
+#d1{
+	border-radius: 55px;
+}
+body{
+	background: #ceffe1;
+	padding-top: 150px;
+}
 
 .H3{
     text-align: center;
