@@ -9,7 +9,7 @@ PIN_ECHO = 17
 mydb = mysql.connector.connect(
   host="wastemgmt.cwzqmidbioqe.ap-south-1.rds.amazonaws.com",
   user="root",
-  passwd="target123",
+  passwd="thanos6789",
   database="wasteCollection"
 )
 while True:
