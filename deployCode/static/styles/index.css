@@ -1,0 +1,35 @@
+.jumbotron{
+	background-color: #80CBC4;
+}
+
+.row{
+	width:900px; 
+	margin-left: auto;
+	margin-right: auto;
+}
+#d1{
+	border-radius: 55px;
+
+}
+body{
+	background: #ceffe1;
+	padding-top: 15px;
+
+}
+
+.H3{
+    text-align: center;
+
+}
+
+.H1{
+    font-size: 4rem;
+    font-weight: bold;
+}
+
+.c{
+    position: relative;
+    text-align: center;
+    color:black;
+}
+
