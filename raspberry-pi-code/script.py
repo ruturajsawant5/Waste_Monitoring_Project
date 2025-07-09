@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 import os
 
 # This is the package that allows us to control and interact with the GPIO pins, without this package we wouldn’t be able to talk with our distance sensor.
